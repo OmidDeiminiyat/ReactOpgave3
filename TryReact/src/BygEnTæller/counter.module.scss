@@ -1,0 +1,21 @@
+.Counter{
+    width: 300px;
+    background-color: rgb(89, 166, 239);
+    height: 200px;
+   
+    h2{
+        color: black;
+        font-size: 18px;
+        span{
+            color: red;
+        }
+    }
+    button{
+       
+        position: relative;
+        top: 90px;
+        left: 75px;
+        width: 150px;
+
+    }
+}
