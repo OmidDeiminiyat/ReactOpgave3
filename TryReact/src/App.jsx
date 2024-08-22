@@ -16,8 +16,6 @@ function App() {
     setText(event.target.value); 
   };
 
-
-  
   return (
     <>
     <main>
@@ -28,5 +26,4 @@ function App() {
     </>
   )
 }
-
 export default App
